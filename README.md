@@ -12,11 +12,11 @@
 
 ## Websites
 ### [georgedavitiani.com](https://georgedavitiani.com)
-- hosted on AWS
+- hosted on GitHub Pages
 - online resume
 
 ### [olde800.com](https://olde800.com)
-- hosted on GitHub Pages
+- hosted on AWS
 - sandbox for testing AWS services
 - currently uses: Route53, S3, CloudFront, Cert Manager, CodePipeline
 
