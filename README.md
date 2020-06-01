@@ -12,5 +12,5 @@
 
 ## Websites
 - [georgedavitiani.com](https://georgedavitiani.com)
-- [olde800](https://olde800.com)
-- [tinadavitiani.com](htps://tinadavitiani.com)
+- [olde800.com](https://olde800.com)
+- [tinadavitiani.com](https://tinadavitiani.com)
