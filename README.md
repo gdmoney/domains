@@ -11,6 +11,9 @@
 
 
 ## Websites
-- [georgedavitiani.com](https://georgedavitiani.com)
-- [olde800.com](https://olde800.com)
-- [tinadavitiani.com](https://tinadavitiani.com)
+### - [georgedavitiani.com](https://georgedavitiani.com)
+- hosted on AWS
+### - [olde800.com](https://olde800.com)
+- hosted on GitHub Pages
+### - [tinadavitiani.com](https://tinadavitiani.com)
+- hosted on GitHub Pages
