@@ -13,7 +13,7 @@
 ## Websites
 ### [georgedavitiani.com](https://georgedavitiani.com)
 - hosted on GitHub Pages
-- online resume
+- my online resume
 
 ### [olde800.com](https://olde800.com)
 - hosted on AWS
