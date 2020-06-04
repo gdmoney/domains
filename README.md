@@ -1,7 +1,7 @@
-# AWS
+# Domains
 
 
-## Registered Domains
+## Registered on AWS
 - deebo.net
 - georgedavitiani.com
 - lukadavitiani.com
