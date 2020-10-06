@@ -18,7 +18,7 @@
 ### [olde800.com](https://olde800.com)
 - hosted on **AWS**
 - sandbox for testing AWS services
-- currently uses: *Route53, S3, CloudFront, Cert Manager, CodePipeline*
+- uses: *Route53, S3, CloudFront, Cert Manager, CodePipeline*
 
 ### [tinadavitiani.com](https://tinadavitiani.com)
 - hosted on **GitHub Pages**
