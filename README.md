@@ -13,7 +13,7 @@
 ## Websites
 ### [georgedavitiani.com](https://georgedavitiani.com)
 - hosted on **GitHub Pages**
-- my online resume
+- my personal website
 - [repo](https://github.com/gdmoney/georgedavitiani.com)
 
 ### [olde800.com](https://olde800.com)
