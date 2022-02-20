@@ -2,12 +2,11 @@
 
 
 ## Registered on AWS
-- deebo.net
 - georgedavitiani.com
-- lukadavitiani.com
-- marikuna.com
-- olde800.com
 - tinadavitiani.com
+- lukadavitiani.com
+- deebo.net
+- olde800.com
 
 
 ## Websites
