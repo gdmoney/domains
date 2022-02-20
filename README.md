@@ -14,7 +14,7 @@
 ### [georgedavitiani.com](https://georgedavitiani.com)
 - hosted on **GitHub Pages**
 - my personal website
-- [repo](https://github.com/gdmoney/georgedavitiani.com)
+- [repo](https://github.com/gdmoney/georgedavitiani.com.v2)
 
 ### [olde800.com](https://olde800.com)
 - hosted on **AWS**
