@@ -25,3 +25,9 @@
 - hosted on **GitHub Pages**
 - Tina's learning site
 - [repo](https://github.com/Davitiani/tinadavitiani.com)
+
+
+### [deebo.net](https://deebo.net)
+- hosted on **Cloudflare Pages**
+- sandbox for testing Cloudflare services
+- [repo](https://github.com/gdmoney/deebo.net)
