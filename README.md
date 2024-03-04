@@ -5,8 +5,10 @@
 - georgedavitiani.com
 - tinadavitiani.com
 - lukadavitiani.com
-- deebo.net
 - olde800.com
+
+## Registered on Cloudflare
+- deebo.net
 
 
 ## Websites
