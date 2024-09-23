@@ -6,6 +6,7 @@
 - tinadavitiani.com
 - lukadavitiani.com
 - olde800.com
+- primsy.co
 
 ## Registered on Cloudflare
 - deebo.net
