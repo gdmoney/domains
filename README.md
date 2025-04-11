@@ -10,6 +10,7 @@
 
 ## Registered on Cloudflare
 - deebo.net
+- event-tech.us
 
 
 ## Websites
@@ -38,3 +39,7 @@
 - hosted on **Cloudflare Pages**
 - sandbox for testing Cloudflare services
 - [repo](https://github.com/gdmoney/deebo.net)
+
+### [event-tech.us](https://event-tech.us)
+- hosted on **Cloudflare Pages**
+- [repo](https://github.com/gdmoney/event-tech.us)
